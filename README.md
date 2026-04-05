@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vk7981&style=flat&color=blue" alt="profile views" />
   &nbsp;
-  <a href=href="https://www.linkedin.com/in/vaishnav-krisna-rk-b44a74337">
+  <a href="https://www.linkedin.com/in/vaishnav-krisna-rk-b44a74337">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
